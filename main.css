@@ -270,7 +270,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 5px;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 20px;
